@@ -1,0 +1,34 @@
+:root{
+    --background-body: #f37820;
+    --color-primary: #fff;
+    --color-secondary: #000;
+    --color-border-input-focus: #5372f0;
+
+    /* == Login == */
+    --color-icons-login: #4c4c4c;
+    --color-input-placeholder: #4c4c4c;
+    --background-buttons-account: #fff;
+    --background-facebook-hover: #1877f2;
+    --background-google-hover: #eee;
+    
+    --background-button-login: #6365ed;
+    --background-button-login-hover: #1114d9;
+    --color-text-link-login: #1114d9;
+
+
+    /* == Inscrição ==  */
+    --background-form: #fff;
+    --color-title-header: #333;
+  
+    --color-border-line-form: #d4d4d4;
+    --background-text-line: #fff;
+    --color-text-line: #8b8b8b;
+  
+    --color-label-form: #333;
+    --color-text-input: #707070;
+    --color-border-input: #ddd;
+    --color-icon-eye: #8b8b8b;
+    --color-text-link: #1114d9;
+    --color-border-button-form: #2706cd;
+    --background-button-form-hover: #2706cd;
+  }
